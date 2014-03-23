@@ -92,9 +92,9 @@ if ( ! function_exists('youtube_video_galley') ) {
 			'not_found'                  => __( 'Not Found', 'text_domain' ),
 		);
 		$rewrite = array(
-			'slug'                       => 'youtube-video-gallery/categories',
+			'slug'                       => 'youtube-video-gallery-categories',
 			'with_front'                 => true,
-			'hierarchical'               => false,
+			'hierarchical'               => true
 		);
 		$args = array(
 			'labels'                     => $labels,
