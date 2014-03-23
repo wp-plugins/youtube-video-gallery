@@ -1,0 +1,48 @@
+.youtube-video-gallery ul,
+.youtube-video-gallery ul li {
+	margin: 0;
+	padding: 0;
+}
+.youtube-video-gallery ul {
+	list-style: none;
+}
+.youtube-video-gallery.index a {
+	font-size: 48px;
+}
+.youtube-video-gallery.index ul li a {
+	margin-bottom: 10px;
+}
+.youtube-video-gallery.cats .header {
+	margin-bottom: 20px;
+}
+.youtube-video-gallery.cats .inner .left {
+	width: 35%;
+}
+.youtube-video-gallery.cats .inner .left img {
+	width: 100%;
+}
+.youtube-video-gallery.cats .inner .right {
+	width: 65%;
+}
+.youtube-video-gallery.cats .inner .right a,
+.youtube-video-gallery.cats .inner .right ul,
+.youtube-video-gallery.cats .inner .right p{
+	margin-left: 10px;
+}
+.youtube-video-gallery.cats .inner .right ul li a{
+	margin-left: 0px;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.yvg_spacer {
+	width: 90%;
+	margin: 10px auto;
+	border-bottom: solid 1px #000;
+}
