@@ -1,6 +1,6 @@
 === Youtube Video Gallery ===
 
-Contributors: arturssmirnovs
+Contributors: metroid
 Tags: channel, youtube, gallery, plugin, responsive, mobile, shortcode, youtube shortcode, hd, vlog, vlogging, web videos, youtube plugin, embed youtube, video, video shortcode, embed videos, youtube player, shortcode, simple, simple youtube, youtube embed, wordpress youtube embed, youtube embedding, video plugin
 Donate link: http://arturssmirnovs.com/donate/
 Requires at least: 3.4
