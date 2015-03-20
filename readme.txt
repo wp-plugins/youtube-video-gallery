@@ -1,6 +1,6 @@
 === Youtube Video Gallery ===
 Contributors: metroid
-Tags: channel, youtube, gallery, plugin, responsive, mobile, shortcode, youtube shortcode, hd, vlog, vlogging, web videos, youtube plugin, embed youtube, video, video shortcode, embed videos, youtube player, shortcode, simple, simple youtube, youtube embed, wordpress youtube embed, youtube embedding, video plugin
+Tags: channel, youtube, gallery, plugin, responsive, mobile, shortcode, youtube shortcode, hd, vlog, vlogging, web videos, youtube plugin, embed youtube, video, video shortcode, embed videos, youtube player, shortcode, simple, simple youtube, youtube embed, wordpress youtube embed, video plugin
 Donate link: https://wordpress.org/plugins/youtube-video-gallery/
 Requires at least: 3.4
 Tested up to: 3.8.1
