@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Youtube video gallery
- * Plugin URI: http://arturssmirnovs.com/blog/youtube-video-gallery-wordpress-plugin/
+ * Plugin URI: https://wordpress.org/plugins/youtube-video-gallery/
  * Description: Youtube video gallery plugin.
- * Version: 1.0
- * Author: Arturs Smirnovs
- * Author URI: http://arturssmirnovs.com/
+ * Version: 1.0.1
+ * Author: metroid
+ * Author URI: https://wordpress.org/plugins/youtube-video-gallery
  * License: GPL2
 */
 
